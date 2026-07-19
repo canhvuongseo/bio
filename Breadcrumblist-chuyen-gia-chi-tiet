@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Trang chủ",
+    "item": "https://bioelements.3sgroup.vn/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Đội ngũ chuyên gia",
+    "item": "https://bioelements.3sgroup.vn/doi-ngu-chuyen-gia.html"  
+  },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "Hồ Phương Thùy",
+    "item": "https://bioelements.3sgroup.vn/ho-phuong-thuy.html"  
+  }]
+}
+</script>
