@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Tên sản phẩm",
+  "image": "https://bioelements.3sgroup.vn/url-hinh-anh-sp",
+  "description": "Mô tả sabr phẩm",
+  "brand": {
+    "@type": "Brand",
+    "name": "Bioelements"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://bioelements.3sgroup.vn/chi-tiet-san-pham.html",
+    "priceCurrency": "VND",
+    "price": "24000000"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": ""
+  }
+}
+</script>
