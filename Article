@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://bioelements.3sgroup.vn/chi-tiet-bai-viet.html"
+  },
+  "headline": "Phục hồi hàng rào bảo vệ da mỏng yếu: 3 bước chuẩn lâm sàng cùng Bioelements",
+  "description": "Da bạn vừa khô vừa căng, dễ đỏ và nóng rát sau khi rửa mặt? Đó không phải là "loại da" — đó là dấu hiệu hàng rào bảo vệ (skin barrier) đang suy yếu",
+  "image": "https://bioelements.3sgroup.vn/images/home/blog-1.jpg",  
+  "author": {
+    "@type": "Person",
+    "name": "Ths. BSNT Hồ Phương Thùy",
+    "url": "https://bioelements.3sgroup.vn/ho-phuong-thuy.html"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "",
+    "logo": {
+      "@type": "ImageObject",
+      "url": ""
+    }
+  },
+  "datePublished": "2026-07-01"
+}
+</script>
