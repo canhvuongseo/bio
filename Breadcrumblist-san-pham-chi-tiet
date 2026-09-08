@@ -6,17 +6,22 @@
     "@type": "ListItem", 
     "position": 1, 
     "name": "Trang chủ",
-    "item": "https://bioelements.3sgroup.vn/"  
+    "item": "https://bioelements.vn/"  
   },{
     "@type": "ListItem", 
     "position": 2, 
-    "name": "Tên danh mục sản phẩm",
-    "item": "https://bioelements.3sgroup.vn/tay-trang-bioelements.html"  
+    "name": "Sản phẩm",
+    "item": "https://bioelements.vn/san-pham"  
   },{
     "@type": "ListItem", 
     "position": 3, 
-    "name": "Tên sản phẩm chi tiết",
-    "item": "https://bioelements.3sgroup.vn/chi-tiet-san-pham.html"  
+    "name": "Tẩy trang",
+    "item": "https://bioelements.vn/san-pham/tay-trang"  
+  },{
+    "@type": "ListItem", 
+    "position": 4, 
+    "name": "Makeup Dissolver Perfected",
+    "item": "https://bioelements.vn/san-pham/tay-trang/makeup-dissolver-perfected"  
   }]
 }
 </script>
