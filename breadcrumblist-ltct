@@ -6,17 +6,17 @@
     "@type": "ListItem", 
     "position": 1, 
     "name": "Trang chủ",
-    "item": "https://bioelements.3sgroup.vn/"  
+    "item": "https://bioelements.vn/"  
   },{
     "@type": "ListItem", 
     "position": 2, 
     "name": "Liệu trình chuyên nghiệp",
-    "item": "https://bioelements.3sgroup.vn/lieu-trinh-chuyen-nghiep.html"  
+    "item": "https://bioelements.vn/lieu-trinh-chuyen-nghiep.html"  
   },{
     "@type": "ListItem", 
     "position": 3, 
     "name": "Tên liệu trình",
-    "item": "https://bioelements.3sgroup.vn/acne-pore-clearing.html"  
+    "item": "https://bioelements.vn/lieu-trinh-chuyen-nghiep/acne-pore-clearing.html"  
   }]
 }
 </script>
